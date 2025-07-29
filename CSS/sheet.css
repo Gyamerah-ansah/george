@@ -213,7 +213,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 10px;
- 
+    z-index: -1;
 }
 
 .forms input{
@@ -225,7 +225,7 @@ body {
     width: 300px;
     height: 40px;
     font-weight: bolder;
-    z-index: -1;
+   
 }
 
 .forms button{
