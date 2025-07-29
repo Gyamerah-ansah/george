@@ -523,7 +523,7 @@ border: 3px solid #333;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('./pexels-pixabay-531880.jpg');
+    background: url('../pics/pexels-pixabay-531880.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -743,7 +743,7 @@ border-radius: 500px;
 }
 
 .h1{
-    background-image: url(pexels-shonejai-445753-1227511.jpg);
+    background-image: url('../pics/pexels-shonejai-445753-1227511.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
