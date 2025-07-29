@@ -1,5 +1,5 @@
 .loot{
-    background-image: url('./netflix-octobre-contenus-2022.jpg');
+    background-image: url('../pics/1585216175_netflix.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -523,7 +523,8 @@ border: 3px solid #333;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(pexels-pixabay-531880.jpg) no-repeat;
+    background: url('./pexels-pixabay-531880.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
 }
