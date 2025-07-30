@@ -1,0 +1,26 @@
+.info-body{
+    background-color: #222;
+    color: white;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.video-container{
+     display: block;
+     margin: 0 auto;
+    border-radius: 10px;
+    width: 800px;
+    height: 450px;
+}
+
+.flag{
+    width: 50px;
+    height: 30px;
+    
+}
