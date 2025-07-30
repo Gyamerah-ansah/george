@@ -399,12 +399,16 @@ fieldset{
 }
 
 .form input{
-    background-color: greenyellow;
+    background-color: transparent;
+    backdrop-filter: blur(10px);
     border-radius: 20px;
     text-align: center;
     font-weight: bolder;
+    color: white;
 } 
-
+.form ::placeholder{
+    color: white;
+}
 .border{
     display: flex;
     flex-direction: column;
