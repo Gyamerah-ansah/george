@@ -1,0 +1,85 @@
+.space{
+    height: 30vh;
+    
+}
+
+.space input{
+    position: relative;
+    left: 150px;
+    top: 50px;
+    width: 80%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 18px;
+    font-weight: 500;
+    padding-left: 10px;
+    border: 1px solid gray;
+}
+
+.search-icon{
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    font-weight: bolder;
+}
+
+.h1{
+    background: url('../pics/pexels-shonejai-445753-1227511.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+        border: 1px solid #222;
+    width: 800px;
+    position: relative;
+    left: 200px;
+    top: 10px;
+
+}
+
+.movie-list{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    list-style: none;
+}
+.movie-list li:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+.new-release{
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.new-release-movie{
+    margin: 20px;
+    width: 200px;
+    height: 300px;
+    border: 2px solid #333;
+    border: none;
+    transition: transform 1s;
+    object-fit: cover;
+    position: relative;
+
+}
+
+.new-release-movie:hover{
+    transform: scale(0.9);
+    padding: 20px 20px 50px 20px;
+    background-color: #111;
+}
+
+.all-movie{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
