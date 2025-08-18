@@ -99,14 +99,14 @@ header5.classList.toggle('scoop');
 }
 
 // let nav = document.getElementById("nav")
-let tog = document.getElementById("tog")
+// let tog = document.getElementById("tog")
 
 
-function MYFUNCTION (){
-    tog.classList.toggle('darkmode');
-    // nav.classList.remove('darkmode');
-}
-tog.onclick = MYFUNCTION
+// function MYFUNCTION (){
+//     tog.classList.toggle('darkmode');
+//     // nav.classList.remove('darkmode');
+// }
+// tog.onclick = MYFUNCTION
 
 
 
