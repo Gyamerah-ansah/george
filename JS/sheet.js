@@ -5,7 +5,7 @@ const backregister = document.getElementById('backregister');
 const backlogin = document.getElementById('backlogin');
 
 account.onclick = function () {
-alert('Hi')
+// alert('Hi')
 LOGIN.classList.toggle('swapDisplay');
 REGISTER.classList.remove('swapDisplay');
     
