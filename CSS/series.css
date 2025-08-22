@@ -242,6 +242,7 @@ fieldset{
     transition: transform 1s;
     object-fit: cover;
     position: relative;
+    color: white;
 
 }
 
