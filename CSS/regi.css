@@ -289,14 +289,14 @@ fieldset{
     height: 35px;
 } 
 
-.button{
+/* .button{
     background-color: transparent;
     backdrop-filter: blur(10px);
     border: 4px solid blue;
     border-radius: 20px;
     width: 100px;
     height: 50px;
-}
+} */
 .form ::placeholder{
     color: white;
 }
