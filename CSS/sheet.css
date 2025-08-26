@@ -2,8 +2,10 @@
     background-image: url('../pics/netflix-octobre-contenus-2022.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
     background-size: cover;
+    height: 1450px;
+    background-color: black;
     z-index: -1;
 }
 .navbar{width: 100%;
